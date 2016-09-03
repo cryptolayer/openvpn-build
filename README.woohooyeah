@@ -1,0 +1,10 @@
+The following files have been added, to allow compilation with LibreSSL:
+
+generic/build-libressl
+-> Adjusted build script
+
+generic/build-libressl.vars
+-> Adjusted build.vars file
+
+README.woohooyeah
+-> The file you're reading now
